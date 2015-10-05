@@ -1,0 +1,1 @@
+(1 until 5).flatMap(i => (1 until i).map(j => (i, j)))
