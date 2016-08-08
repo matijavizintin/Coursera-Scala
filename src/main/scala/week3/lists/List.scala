@@ -1,7 +1,5 @@
 package week3.lists
 
-import week3.abstraction.{NonEmptySet, EmptySet}
-
 /**
  * Created by Matija Vižintin
  * Date: 08. 07. 2015
